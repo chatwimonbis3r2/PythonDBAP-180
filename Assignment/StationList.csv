@@ -1,0 +1,363 @@
+ID,LineCode,Status,StationCode,StationNameEN
+1,ARL,1,A1,Suvarnabhumi
+2,ARL,0,A10,Don Muang
+3,ARL,1,A2,Lat Krabang
+4,ARL,1,A3,Ban Thap Chang
+5,ARL,1,A4,Hua Mak
+6,ARL,1,A5,Ramkhamhaeng
+7,ARL,1,A6,Makkasan
+8,ARL,1,A7,Ratchaprarop
+9,ARL,1,A8,Phaya Thai
+10,ARL,0,A9,Bang Sue
+11,Blue,1,BL01,Tha Phra
+12,Blue,1,BL02,Charan 13
+13,Blue,1,BL03,Fai Chai
+14,Blue,1,BL04,Bang Khun Non
+15,Blue,1,BL05,Bang Yi Khan
+16,Blue,1,BL06,Sirindhorn
+17,Blue,1,BL07,Bang Phlat
+18,Blue,1,BL08,Bang O
+19,Blue,1,BL09,Bang Pho
+20,Blue,1,BL10,Tao Poon
+21,Blue,1,BL11,Bang Sue
+22,Blue,1,BL12,Kamphaeng Phet
+23,Blue,1,BL13,Chatuchak Park
+24,Blue,1,BL14,Phahon Yothin
+25,Blue,1,BL15,Lat Phrao
+26,Blue,1,BL16,Ratchadaphisek
+27,Blue,1,BL17,Sutthisan
+28,Blue,1,BL18,Huai Khwang
+29,Blue,1,BL19,Thailand Cultural Centre
+30,Blue,1,BL20,Phra Ram 9
+31,Blue,1,BL21,Phetchaburi
+32,Blue,1,BL22,Sukhumvit
+33,Blue,1,BL23,Queen Sirikit National 
+34,Blue,1,BL24,Khlong Toei
+35,Blue,1,BL25,Lumphini
+36,Blue,1,BL26,Si Lom
+37,Blue,1,BL27,Sam Yan
+38,Blue,1,BL28,Hua Lamphong
+39,Blue,1,BL29,Wat Mangkon
+40,Blue,1,BL30,Sam Yot
+41,Blue,1,BL31,Sanam Chai
+42,Blue,1,BL32,Itsaraphap
+43,Blue,1,BL33,Bang Phai
+44,Blue,1,BL34,Bang Wa
+45,Blue,1,BL35,Phetkasem 48
+46,Blue,1,BL36,Phasi Charoen
+47,Blue,1,BL37,Bang Khae
+48,Blue,1,BL38,Lak Song
+49,Blue,0,BL39,Phutthamonthon?2
+50,Blue,0,BL40,Thawiwatthana
+51,Blue,0,BL41,Phutthamonthon?3
+52,Blue,0,BL42,Phutthamonthon?4
+53,Brown,0,BR01,Nonthaburi Civic Center
+54,Brown,0,BR02,Ngam Wong Wan 2
+55,Brown,0,BR03,Ngam Wong Wan 18
+56,Brown,0,BR04,Chinnakhet
+57,Brown,0,BR05,Bang Khen
+58,Brown,0,BR06,Ngam Wong Wan 48
+59,Brown,0,BR07,Kasetsart University
+60,Brown,0,BR08,Khong Bang Bua
+61,Brown,0,BR09,Prasert Manukitch ? Lat Pla Khao
+62,Brown,0,BR10,Sena Niwet
+63,Brown,0,BR11,Satri Witthaya 2 School
+64,Brown,0,BR12,Kaset Nawamin
+65,Brown,0,BR13,Khlong Lamchiak
+66,Brown,0,BR14,Nuanchan
+67,Brown,0,BR15,Nawamin Junction
+68,Brown,0,BR16,Phokaew
+69,Brown,0,BR17,Inthrarak
+70,Brown,0,BR18,Nawaminphirom Park
+71,Brown,0,BR19,Nationnal Housing Authority
+72,Brown,0,BR20,Yaek Lam Sali
+73,Dark green,1,CEN,Siam
+74,Light green,1,CEN,Siam
+75,Light green,1,E1,Chit Lom
+76,Light green,1,E10,Bang Chak
+77,Light green,1,E11,Punnawithi
+78,Light green,1,E12,Udom Suk
+79,Light green,1,E13,Bang Na
+80,Light green,1,E14,Bearing
+81,Light green,1,E15,Samrong
+82,Light green,1,E16,Pu Chao
+83,Light green,1,E17,Chang Erawan
+84,Light green,1,E18,Royal Thai Naval Academy
+85,Light green,1,E19,Pak Nam
+86,Light green,1,E2,Phloen Chit
+87,Light green,1,E20,Srinagarindra
+88,Light green,1,E21,Phraek Sa
+89,Light green,1,E22,Sai Luat
+90,Light green,1,E23,Kheha
+91,Light green,0,E24,Sawang Khaniwat
+92,Light green,0,E25,Ancient City
+93,Light green,0,E26,Srichanpradit
+94,Light green,0,E27,Bang Pu
+95,Light green,0,E28,Tamru
+96,Light green,1,E3,Nana
+97,Light green,1,E4,Asok
+98,Light green,1,E5,Phrom Phong
+99,Light green,1,E6,Thong Lo
+100,Light green,1,E7,Ekkamai
+101,Light green,1,E8,Phra Khanong
+102,Light green,1,E9,On Nut
+103,Gold,1,G1,Krung Thon Buri
+104,Gold,1,G2,Charoen Nakhorn
+105,Gold,1,G3,Khlong San
+106,Gold,0,G4,Memorial Bridge
+107,Grey,0,GY01,Vatcharaphol
+108,Grey,0,GY02,Yu Yen
+109,Grey,0,GY03,Kaset Nawamin
+110,Grey,0,GY04,Pradit Manutham 25
+111,Grey,0,GY05,Yothin Phattana
+112,Grey,0,GY06,Lat Phrao 87
+113,Grey,0,GY07,Sangkhom Songkhro
+114,Grey,0,GY08,Lat Phrao 83
+115,Grey,0,GY09,Si Wara
+116,Grey,0,GY10,Nawa Si
+117,Grey,0,GY11,Wat Phraram Kao
+118,Grey,0,GY12,Petchaburi-Thong Lo
+119,Grey,0,GY13,Cham Chan
+120,Grey,0,GY14,Thong Lo 10
+121,Grey,0,GY15,Thong Lo
+122,Grey,0,GY16,Phra Khanong
+123,Grey,0,GY17,Ban Kluai Tai
+124,Grey,0,GY18,Kluai Namthai
+125,Grey,0,GY19,Kasem Rat Junction
+126,Grey,0,GY20,Queen Sirikit National Covention Centre
+127,Grey,0,GY21,Khlong Toei
+128,Grey,0,GY22,Ngam Duphli
+129,Grey,0,GY23,Lumpini
+130,Grey,0,GY24,Suan Phlu
+131,Grey,0,GY25,Chong Nonsi
+132,Grey,0,GY26,Naradhiwas
+133,Grey,0,GY27,Nang Linchi
+134,Grey,0,GY28,Ratchada-Naradhiwas
+135,Grey,0,GY29,Yannawa
+136,Grey,0,GY30,Phra Ram 3
+137,Grey,0,GY31,Khlong Phum
+138,Grey,0,GY32,Khlong Dan
+139,Grey,0,GY33,Sathu Pradit
+140,Grey,0,GY34,Phra Ram 9 Bridge
+141,Grey,0,GY35,Charoen Rat
+142,Grey,0,GY36,Charoen Krung
+143,Grey,0,GY37,Mahaisawan
+144,Grey,0,GY38,Talat Phlu
+145,Grey,0,GY39,Tha Phra
+146,Pink,0,MT01,Impact Muang Thong Thani
+147,Pink,0,MT02,Muang Thong Thani Lake 
+148,Light green,1,N1,Ratchathewi
+149,Light green,1,N10,Phahon Yothin 24
+150,Light green,1,N11,Ratchayothin
+151,Light green,1,N12,Sena Nikhom
+152,Light green,1,N13,Kasetsart University
+153,Light green,1,N14,Royal Forest Department
+154,Light green,1,N15,Bang Bua 
+155,Light green,1,N16,11th Infantry Regiment 
+156,Light green,1,N17,Wat Phra Sri Mahathat
+157,Light green,1,N18,Phahon Yothin 59
+158,Light green,1,N19,Sai Yud
+159,Light green,1,N2,Phaya Thai
+160,Light green,1,N20,Saphan Mai
+161,Light green,1,N21,Bhumibol Adulyadej Hospital
+162,Light green,1,N22,Royal Thai Air Force Museum
+163,Light green,1,N23,Yaek Kor Por Aor
+164,Light green,1,N24,Khu Khot
+165,Light green,0,N25,Khlong 3
+166,Light green,0,N26,Khlong 4
+167,Light green,0,N27,Khlong 5
+168,Light green,0,N28,Outer Ring Road - Lam Luk Ka
+169,Light green,1,N3,Victory Monument
+170,Light green,1,N4,Sanam Pao
+171,Light green,1,N5,Ari
+172,Light green,0,N6,Sena Ruam
+173,Light green,1,N7,Saphan Khwai
+174,Light green,1,N8,Mo Chit
+175,Light green,1,N9,Ha Yaek Lat Phrao
+176,Orange,0,OR01,Bang Khun Non
+177,Orange,0,OR02,Siriraj
+178,Orange,0,OR03,Sanam Luang
+179,Orange,0,OR04,Democracy Monument
+180,Orange,0,OR05,Lan Luang
+181,Orange,0,OR06,Yommarat
+182,Orange,0,OR07,Ratchathewi
+183,Orange,0,OR08,Pratunam
+184,Orange,0,OR09,Ratchaprarop
+185,Orange,0,OR10,Din Daeng
+186,Orange,0,OR11,Pracha Songkhro
+187,Orange,0,OR12,Thailand Cultural Centre
+188,Orange,0,OR13,MRTA
+189,Orange,0,OR14,Wat Phraram Kao
+190,Orange,0,OR15,Ram Khamhaeng 12
+191,Orange,0,OR16,Ram Khamhaeng University
+192,Orange,0,OR17,SAT
+193,Orange,0,OR18,Ram Khamhaeng 34
+194,Orange,0,OR19,Yaek Lam Sali 
+195,Orange,0,OR20,Si Burapha
+196,Orange,0,OR21,Ban Ma
+197,Orange,0,OR22,Sammakon
+198,Orange,0,OR23,Nom Klao
+199,Orange,0,OR24,Rat Phatthana
+200,Orange,0,OR25,Wat Bang Pheng
+201,Orange,0,OR26,Kheha Ramkhamhaeng
+202,Orange,0,OR27,Min Buri
+203,Orange,0,OR28,Yaek Rom Klao 
+204,Pink,0,PK01,Nonthaburi Civic Center
+205,Pink,0,PK02,Khae Rai
+206,Pink,0,PK03,Sanambin Nam
+207,Pink,0,PK04,Samakkhi
+208,Pink,0,PK05,Royal Irrigation Department
+209,Pink,0,PK06,Yaek Pak Kret
+210,Pink,0,PK07,Pak Kret Bypass
+211,Pink,0,PK08,Chaeng Watthana-Pak Kret 28
+212,Pink,0,PK09,Si Rat
+213,Pink,0,PK10,Muang Thong Thani 
+214,Pink,0,PK11,Chaeng Watthana 14
+215,Pink,0,PK12,Government Complex
+216,Pink,0,PK13,National Telecom
+217,Pink,0,PK14,Lak Si
+218,Pink,0,PK15,Rajabhat Phranakorn
+219,Pink,0,PK16,Wat Phra Sri Mahathat
+220,Pink,0,PK17,Ram Inthra 3
+221,Pink,0,PK18,Lat Pla Khao
+222,Pink,0,PK19,Ram Inthra Kor Mor 4
+223,Pink,0,PK20,Maiyalap
+224,Pink,0,PK21,Vatcharaphol
+225,Pink,0,PK22,Ram Inthra Kor Mor 6
+226,Pink,0,PK23,Khu Bon
+227,Pink,0,PK24,Ram Inthra Kor Mor 9
+228,Pink,0,PK25,Outer Ring Road - Ram Inthra
+229,Pink,0,PK26,Nopparat
+230,Pink,0,PK27,Bang Chan
+231,Pink,0,PK28,Setthabutbamphen
+232,Pink,0,PK29,Min Buri Market
+233,Pink,0,PK30,Min Buri
+234,Purple ,1,PP01,Khlong Bang Phai
+235,Purple ,1,PP02,Talad Bang Yai
+236,Purple ,1,PP03,Sam Yaek Bang Yai
+237,Purple ,1,PP04,Bang Phlu
+238,Purple ,1,PP05,Bang Rak Yai
+239,Purple ,1,PP06,Bang Rak Noi Tha It
+240,Purple ,1,PP07,Sai Ma
+241,Purple ,1,PP08,Phra Nang klao Bridge
+242,Purple ,1,PP09,Yaek Nonthaburi 1
+243,Purple ,1,PP10,Bang Krasor
+244,Purple ,1,PP11,Nonthaburi Civic Center
+245,Purple ,1,PP12,Ministry of Public Health
+246,Purple ,1,PP13,Yaek Tiwanon
+247,Purple ,1,PP14,Wong Sawang
+248,Purple ,1,PP15,Bang Son
+249,Purple ,1,PP16,Tao Poon
+250,Purple ,0,PP17,Parliament House
+251,Purple ,0,PP18,Si Yan
+252,Purple ,0,PP19,Vajira Hospital
+253,Purple ,0,PP20,National Library
+254,Purple ,0,PP21,Bang Khun Phrom
+255,Purple ,0,PP22,Democracy Monument
+256,Purple ,0,PP23,Sam Yot
+257,Purple ,0,PP24,Memorial Bridge
+258,Purple ,0,PP25,Wongwian Yai
+259,Purple ,0,PP26,Samre
+260,Purple ,0,PP27,Dao Khanong
+261,Purple ,0,PP28,Bang Pakaeo
+262,Purple ,0,PP29,Bang Pakok
+263,Purple ,0,PP30,Yaek Pracha Uthit
+264,Purple ,0,PP31,Rat Burana
+265,Purple ,0,PP32,Phra Pradaeng
+266,Purple ,0,PP33,Khru Nai
+267,Red east,0,RE01,Bang Sue
+268,Red east,0,RE02,Sam Sen
+269,Red east,0,RE03,Ratchawithi
+270,Red east,0,RE04,Phaya Thai
+271,Red east,0,RE05,Makkasan
+272,Red east,0,RE06,Ramkhamhaeng
+273,Red east,0,RE07,Hua Mak
+274,Red north,1,RN01,Bang Sue
+275,Red north,1,RN02,Chatuchak
+276,Red north,1,RN03,Wat Samian Nari
+277,Red north,1,RN04,Bang Khen
+278,Red north,1,RN05,Thung Song Hong
+279,Red north,1,RN06,Lak Si
+280,Red north,1,RN07,Kan Kheha
+281,Red north,1,RN08,Don Muang
+282,Red north,1,RN09,Lak Hok
+283,Red north,1,RN10,Rangsit
+284,Red north,0,RN11,Khlong Neung
+285,Red north,0,RN12,Bangkok University-Rangsit
+286,Red north,0,RN13,Chiang Rak
+287,Red north,0,RN14,Thammasat University-Rangsit
+288,Red south,0,RS01,Bang Sue
+289,Red south,0,RS02,Sam Sen
+290,Red south,0,RS03,Ratchawithi
+291,Red south,0,RS04,Yommarat
+292,Red south,0,RS05,Yossae
+293,Red south,0,RS06,Hua Lamphong
+294,Red south,0,RS07,Khlong San
+295,Red south,0,RS08,Wongwian Yai 
+296,Red south,0,RS09,Talat Phlu (North)
+297,Red south,0,RS10,Wutthakat
+298,Red south,0,RS11,Chom Thong
+299,Red south,0,RS12,Wat Sai
+300,Red south,0,RS13,Wat Sing
+301,Red south,0,RS14,Bang Bon
+302,Red south,0,RS15,Rang Sakae
+303,Red south,0,RS16,Rang Pho
+304,Red south,0,RS17,Sam Yaek
+305,Red south,0,RS18,Phrom Daen
+306,Red south,0,RS19,Thung Si Thong
+307,Red south,0,RS20,Bang Nam Chuet
+308,Red south,0,RS21,Khok Khwai
+309,Red south,0,RS22,Ekkachai
+310,Red south,0,RS23,Maha Chai
+311,Red west,1,RW01,Bang Sue
+312,Red west,1,RW02,Bang Son
+313,Red west,0,RW03,Rama VI Bridge
+314,Red west,0,RW04,Bang Kruai-EGAT
+315,Red west,1,RW05,Bang Bamru
+316,Red west,1,RW06,Taling Chan
+317,Red west,0,RW07,Ban Chimpli
+318,Red west,0,RW08,Kanchanaphisek
+319,Red west,0,RW09,Sala Thammasop
+320,Red west,0,RW10,Salaya
+321,Red west south,0,RWS1,Taling Chan
+322,Red west south,0,RWS2,Taling Chan District Office
+323,Red west south,0,RWS3,Bang Khun Non
+324,Red west south,0,RWS4,Siriraj
+325,Dark green,1,S1,Ratchadamri
+326,Dark green,1,S10,Talat Phlu
+327,Dark green,1,S11,Wutthakat
+328,Dark green,1,S12,Bang Wa
+329,Dark green,1,S2,Sala Daeng
+330,Dark green,1,S3,Chong Nonsi
+331,Dark green,1,S4,Saint Louis
+332,Dark green,1,S5,Surasak
+333,Dark green,1,S6,Saphan Taksin
+334,Dark green,1,S7,Krung Thon Buri
+335,Dark green,1,S8,Wongwian Yai
+336,Dark green,1,S9,Pho Nimit
+337,Dark green,1,W1,National Stadium
+338,Yellow,0,YL01,Lat Phrao
+339,Yellow,0,YL02,Phawana
+340,Yellow,0,YL03,Chok Chai 4
+341,Yellow,0,YL04,Lat Phrao 71
+342,Yellow,0,YL05,Lat Phrao 83
+343,Yellow,0,YL06,Mahat Thai
+344,Yellow,0,YL07,Lat Phrao 101
+345,Yellow,0,YL08,Bang Kapi
+346,Yellow,0,YL09,Yaek Lam Sali
+347,Yellow,0,YL10,Si Kritha
+348,Yellow,0,YL11,Hua Mak
+349,Yellow,0,YL12,Kalantan
+350,Yellow,0,YL13,Si Nut
+351,Yellow,0,YL14,Srinagarindra 38
+352,Yellow,0,YL15,Suan Luang Rama IX
+353,Yellow,0,YL16,Si Udom
+354,Yellow,0,YL17,Si Iam
+355,Yellow,0,YL18,Si La Salle
+356,Yellow,0,YL19,Si Bearing
+357,Yellow,0,YL20,Si Dan
+358,Yellow,0,YL21,Si Thepha
+359,Yellow,0,YL22,Thipphawan
+360,Yellow,0,YL23,Samrong
+361,Yellow,0,YLEX01,Criminal Court
+362,Yellow,0,YLEX02,Phahon Yothin 24 
